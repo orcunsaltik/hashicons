@@ -1,18 +1,26 @@
 {
-    "name": "hashicons",
-    "version": "1.0.0",
-    "description": "A free set of icons in svg and font formats",
-    "keywords": [
-        "font",
-        "webfont",
-        "icons",
-        "svg",
-        "ttf",
-        "woff2",
-        "woff",
-        "eot",
-        "asset"
-    ],
-    "author": "Orçun Saltık <saltikorcun@gmail.com>",
-    "license": "MIT"
+  "name": "hashicons",
+  "version": "1.0.0",
+  "description": "A free set of icons in svg and font formats",
+  "keywords": [
+    "font",
+    "webfont",
+    "icons",
+    "svg",
+    "ttf",
+    "woff2",
+    "woff",
+    "eot",
+    "asset"
+  ],
+  "author": "Orçun Saltık <saltikorcun@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://orcunsaltik@github.com/orcunsaltik/hashicons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orcunsaltik/hashicons/issues"
+  },
+  "homepage": "https://github.com/orcunsaltik/hashicons#readme"
 }
