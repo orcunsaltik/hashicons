@@ -1,6 +1,6 @@
 # Hashicons
 
-16px vector based set of icons and fonts.
+16px based set of vector icons and fonts.
 
 ## Author
 
