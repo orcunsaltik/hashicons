@@ -1,26 +1,45 @@
 {
   "name": "hashicons",
-  "version": "1.0.1",
-  "description": "A free set of icons in svg and font formats",
+  "version": "1.0.2",
+  "description": "Free 16px icon set with SVG files and web fonts (TTF, WOFF, WOFF2, EOT) - Clean, minimal, and ready-to-use icons for web projects.",
   "keywords": [
+    "icons",
+    "icon-set",
+    "svg",
+    "svg-icons",
     "font",
     "webfont",
-    "icons",
-    "svg",
+    "icon-font",
     "ttf",
     "woff2",
     "woff",
     "eot",
-    "asset"
+    "16px",
+    "free-icons",
+    "minimal",
+    "web-icons"
   ],
+  "main": "json/hashicons.json",
+  "files": [
+    "font",
+    "json",
+    "sprite",
+    "svg"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
   "author": "Orçun Saltık <saltikorcun@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://orcunsaltik@github.com/orcunsaltik/hashicons.git"
+    "url": "git+https://github.com/orcunsaltik/hashicons.git"
   },
   "bugs": {
     "url": "https://github.com/orcunsaltik/hashicons/issues"
   },
-  "homepage": "https://github.com/orcunsaltik/hashicons#readme"
+  "homepage": "https://github.com/orcunsaltik/hashicons#readme",
+  "engines": {
+    "node": ">= 12.0.0"
+  }
 }
